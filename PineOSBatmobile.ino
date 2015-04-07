@@ -2,7 +2,7 @@
 Written by Scott Pack (@scottjpack)
 Available at https://www.github.com/scottjpack
 
-This is a vast improvement on the 
+This is a vast improvement on the previous PineOS version
 
 Circuit Components:
 Arduino Nano V3 (I used the sainsmart)
